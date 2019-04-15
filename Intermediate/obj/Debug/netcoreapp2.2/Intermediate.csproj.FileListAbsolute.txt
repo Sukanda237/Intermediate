@@ -1,0 +1,11 @@
+C:\Users\Sukanda\source\repos\Intermediate\Intermediate\bin\Debug\netcoreapp2.2\Intermediate.deps.json
+C:\Users\Sukanda\source\repos\Intermediate\Intermediate\bin\Debug\netcoreapp2.2\Intermediate.runtimeconfig.json
+C:\Users\Sukanda\source\repos\Intermediate\Intermediate\bin\Debug\netcoreapp2.2\Intermediate.runtimeconfig.dev.json
+C:\Users\Sukanda\source\repos\Intermediate\Intermediate\bin\Debug\netcoreapp2.2\Intermediate.dll
+C:\Users\Sukanda\source\repos\Intermediate\Intermediate\bin\Debug\netcoreapp2.2\Intermediate.pdb
+C:\Users\Sukanda\source\repos\Intermediate\Intermediate\obj\Debug\netcoreapp2.2\Intermediate.csprojAssemblyReference.cache
+C:\Users\Sukanda\source\repos\Intermediate\Intermediate\obj\Debug\netcoreapp2.2\Intermediate.csproj.CoreCompileInputs.cache
+C:\Users\Sukanda\source\repos\Intermediate\Intermediate\obj\Debug\netcoreapp2.2\Intermediate.AssemblyInfoInputs.cache
+C:\Users\Sukanda\source\repos\Intermediate\Intermediate\obj\Debug\netcoreapp2.2\Intermediate.AssemblyInfo.cs
+C:\Users\Sukanda\source\repos\Intermediate\Intermediate\obj\Debug\netcoreapp2.2\Intermediate.dll
+C:\Users\Sukanda\source\repos\Intermediate\Intermediate\obj\Debug\netcoreapp2.2\Intermediate.pdb

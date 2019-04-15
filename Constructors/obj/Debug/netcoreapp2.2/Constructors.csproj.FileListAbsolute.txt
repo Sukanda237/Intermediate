@@ -1,0 +1,11 @@
+C:\Users\Sukanda\source\repos\Intermediate\Constructors\bin\Debug\netcoreapp2.2\Constructors.deps.json
+C:\Users\Sukanda\source\repos\Intermediate\Constructors\bin\Debug\netcoreapp2.2\Constructors.runtimeconfig.json
+C:\Users\Sukanda\source\repos\Intermediate\Constructors\bin\Debug\netcoreapp2.2\Constructors.runtimeconfig.dev.json
+C:\Users\Sukanda\source\repos\Intermediate\Constructors\bin\Debug\netcoreapp2.2\Constructors.dll
+C:\Users\Sukanda\source\repos\Intermediate\Constructors\bin\Debug\netcoreapp2.2\Constructors.pdb
+C:\Users\Sukanda\source\repos\Intermediate\Constructors\obj\Debug\netcoreapp2.2\Constructors.csproj.CoreCompileInputs.cache
+C:\Users\Sukanda\source\repos\Intermediate\Constructors\obj\Debug\netcoreapp2.2\Constructors.AssemblyInfoInputs.cache
+C:\Users\Sukanda\source\repos\Intermediate\Constructors\obj\Debug\netcoreapp2.2\Constructors.AssemblyInfo.cs
+C:\Users\Sukanda\source\repos\Intermediate\Constructors\obj\Debug\netcoreapp2.2\Constructors.dll
+C:\Users\Sukanda\source\repos\Intermediate\Constructors\obj\Debug\netcoreapp2.2\Constructors.pdb
+C:\Users\Sukanda\source\repos\Intermediate\Constructors\obj\Debug\netcoreapp2.2\Constructors.csprojAssemblyReference.cache

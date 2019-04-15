@@ -1,0 +1,11 @@
+C:\Users\Sukanda\source\repos\Intermediate\Properties\bin\Debug\netcoreapp2.2\Properties.deps.json
+C:\Users\Sukanda\source\repos\Intermediate\Properties\bin\Debug\netcoreapp2.2\Properties.runtimeconfig.json
+C:\Users\Sukanda\source\repos\Intermediate\Properties\bin\Debug\netcoreapp2.2\Properties.runtimeconfig.dev.json
+C:\Users\Sukanda\source\repos\Intermediate\Properties\bin\Debug\netcoreapp2.2\Properties.dll
+C:\Users\Sukanda\source\repos\Intermediate\Properties\bin\Debug\netcoreapp2.2\Properties.pdb
+C:\Users\Sukanda\source\repos\Intermediate\Properties\obj\Debug\netcoreapp2.2\Properties.csprojAssemblyReference.cache
+C:\Users\Sukanda\source\repos\Intermediate\Properties\obj\Debug\netcoreapp2.2\Properties.csproj.CoreCompileInputs.cache
+C:\Users\Sukanda\source\repos\Intermediate\Properties\obj\Debug\netcoreapp2.2\Properties.AssemblyInfoInputs.cache
+C:\Users\Sukanda\source\repos\Intermediate\Properties\obj\Debug\netcoreapp2.2\Properties.AssemblyInfo.cs
+C:\Users\Sukanda\source\repos\Intermediate\Properties\obj\Debug\netcoreapp2.2\Properties.dll
+C:\Users\Sukanda\source\repos\Intermediate\Properties\obj\Debug\netcoreapp2.2\Properties.pdb

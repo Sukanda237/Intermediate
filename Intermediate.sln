@@ -3,11 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.421
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Intermediate", "Intermediate\Intermediate.csproj", "{5E4109C7-3E35-47B0-8B14-4017CA58F0B0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Intermediate", "Intermediate\Intermediate.csproj", "{5E4109C7-3E35-47B0-8B14-4017CA58F0B0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Constructors", "Constructors\Constructors.csproj", "{82F5512A-DD9E-4BC7-B133-2CAD455BFB20}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Constructors", "Constructors\Constructors.csproj", "{82F5512A-DD9E-4BC7-B133-2CAD455BFB20}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Methods", "Methods\Methods.csproj", "{18F37174-C4A2-48E1-97CD-9AD796F6EF35}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Methods", "Methods\Methods.csproj", "{18F37174-C4A2-48E1-97CD-9AD796F6EF35}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fields", "Fields\Fields.csproj", "{5189978B-9661-4C9B-BCA8-98DF9BA5ED87}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccessModifiers", "AccessModifiers\AccessModifiers.csproj", "{4A427750-B903-4224-94BF-003402B86F14}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Properties", "Properties\Properties.csproj", "{FEA8038B-6788-45F6-824A-0525948744E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Indexers", "Indexers\Indexers.csproj", "{2A91218B-185E-4955-9D81-2C4BDE8E8A8D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +35,22 @@ Global
 		{18F37174-C4A2-48E1-97CD-9AD796F6EF35}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{18F37174-C4A2-48E1-97CD-9AD796F6EF35}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{18F37174-C4A2-48E1-97CD-9AD796F6EF35}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5189978B-9661-4C9B-BCA8-98DF9BA5ED87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5189978B-9661-4C9B-BCA8-98DF9BA5ED87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5189978B-9661-4C9B-BCA8-98DF9BA5ED87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5189978B-9661-4C9B-BCA8-98DF9BA5ED87}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A427750-B903-4224-94BF-003402B86F14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A427750-B903-4224-94BF-003402B86F14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A427750-B903-4224-94BF-003402B86F14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A427750-B903-4224-94BF-003402B86F14}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FEA8038B-6788-45F6-824A-0525948744E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEA8038B-6788-45F6-824A-0525948744E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEA8038B-6788-45F6-824A-0525948744E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEA8038B-6788-45F6-824A-0525948744E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A91218B-185E-4955-9D81-2C4BDE8E8A8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A91218B-185E-4955-9D81-2C4BDE8E8A8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A91218B-185E-4955-9D81-2C4BDE8E8A8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A91218B-185E-4955-9D81-2C4BDE8E8A8D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

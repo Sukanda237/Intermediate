@@ -1,0 +1,10 @@
+C:\Users\Sukanda\source\repos\Intermediate\Indexers\bin\Debug\netcoreapp2.2\Indexers.deps.json
+C:\Users\Sukanda\source\repos\Intermediate\Indexers\bin\Debug\netcoreapp2.2\Indexers.runtimeconfig.json
+C:\Users\Sukanda\source\repos\Intermediate\Indexers\bin\Debug\netcoreapp2.2\Indexers.runtimeconfig.dev.json
+C:\Users\Sukanda\source\repos\Intermediate\Indexers\bin\Debug\netcoreapp2.2\Indexers.dll
+C:\Users\Sukanda\source\repos\Intermediate\Indexers\bin\Debug\netcoreapp2.2\Indexers.pdb
+C:\Users\Sukanda\source\repos\Intermediate\Indexers\obj\Debug\netcoreapp2.2\Indexers.csproj.CoreCompileInputs.cache
+C:\Users\Sukanda\source\repos\Intermediate\Indexers\obj\Debug\netcoreapp2.2\Indexers.AssemblyInfoInputs.cache
+C:\Users\Sukanda\source\repos\Intermediate\Indexers\obj\Debug\netcoreapp2.2\Indexers.AssemblyInfo.cs
+C:\Users\Sukanda\source\repos\Intermediate\Indexers\obj\Debug\netcoreapp2.2\Indexers.dll
+C:\Users\Sukanda\source\repos\Intermediate\Indexers\obj\Debug\netcoreapp2.2\Indexers.pdb

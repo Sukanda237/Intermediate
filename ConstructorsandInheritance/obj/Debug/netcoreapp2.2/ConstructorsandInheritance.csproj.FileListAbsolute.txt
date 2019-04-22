@@ -1,0 +1,10 @@
+C:\Users\Sukanda\source\repos\Intermediate\ConstructorsandInheritance\bin\Debug\netcoreapp2.2\ConstructorsandInheritance.deps.json
+C:\Users\Sukanda\source\repos\Intermediate\ConstructorsandInheritance\bin\Debug\netcoreapp2.2\ConstructorsandInheritance.runtimeconfig.json
+C:\Users\Sukanda\source\repos\Intermediate\ConstructorsandInheritance\bin\Debug\netcoreapp2.2\ConstructorsandInheritance.runtimeconfig.dev.json
+C:\Users\Sukanda\source\repos\Intermediate\ConstructorsandInheritance\bin\Debug\netcoreapp2.2\ConstructorsandInheritance.dll
+C:\Users\Sukanda\source\repos\Intermediate\ConstructorsandInheritance\bin\Debug\netcoreapp2.2\ConstructorsandInheritance.pdb
+C:\Users\Sukanda\source\repos\Intermediate\ConstructorsandInheritance\obj\Debug\netcoreapp2.2\ConstructorsandInheritance.csproj.CoreCompileInputs.cache
+C:\Users\Sukanda\source\repos\Intermediate\ConstructorsandInheritance\obj\Debug\netcoreapp2.2\ConstructorsandInheritance.AssemblyInfoInputs.cache
+C:\Users\Sukanda\source\repos\Intermediate\ConstructorsandInheritance\obj\Debug\netcoreapp2.2\ConstructorsandInheritance.AssemblyInfo.cs
+C:\Users\Sukanda\source\repos\Intermediate\ConstructorsandInheritance\obj\Debug\netcoreapp2.2\ConstructorsandInheritance.dll
+C:\Users\Sukanda\source\repos\Intermediate\ConstructorsandInheritance\obj\Debug\netcoreapp2.2\ConstructorsandInheritance.pdb

@@ -1,0 +1,11 @@
+C:\Users\Sukanda\source\repos\Intermediate\Composition\bin\Debug\netcoreapp2.2\Composition.deps.json
+C:\Users\Sukanda\source\repos\Intermediate\Composition\bin\Debug\netcoreapp2.2\Composition.runtimeconfig.json
+C:\Users\Sukanda\source\repos\Intermediate\Composition\bin\Debug\netcoreapp2.2\Composition.runtimeconfig.dev.json
+C:\Users\Sukanda\source\repos\Intermediate\Composition\bin\Debug\netcoreapp2.2\Composition.dll
+C:\Users\Sukanda\source\repos\Intermediate\Composition\bin\Debug\netcoreapp2.2\Composition.pdb
+C:\Users\Sukanda\source\repos\Intermediate\Composition\obj\Debug\netcoreapp2.2\Composition.csprojAssemblyReference.cache
+C:\Users\Sukanda\source\repos\Intermediate\Composition\obj\Debug\netcoreapp2.2\Composition.csproj.CoreCompileInputs.cache
+C:\Users\Sukanda\source\repos\Intermediate\Composition\obj\Debug\netcoreapp2.2\Composition.AssemblyInfoInputs.cache
+C:\Users\Sukanda\source\repos\Intermediate\Composition\obj\Debug\netcoreapp2.2\Composition.AssemblyInfo.cs
+C:\Users\Sukanda\source\repos\Intermediate\Composition\obj\Debug\netcoreapp2.2\Composition.dll
+C:\Users\Sukanda\source\repos\Intermediate\Composition\obj\Debug\netcoreapp2.2\Composition.pdb

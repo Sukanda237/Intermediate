@@ -1,0 +1,11 @@
+C:\Users\Sukanda\source\repos\Intermediate\AccessModifiers2\bin\Debug\netcoreapp2.2\AccessModifiers2.deps.json
+C:\Users\Sukanda\source\repos\Intermediate\AccessModifiers2\bin\Debug\netcoreapp2.2\AccessModifiers2.runtimeconfig.json
+C:\Users\Sukanda\source\repos\Intermediate\AccessModifiers2\bin\Debug\netcoreapp2.2\AccessModifiers2.runtimeconfig.dev.json
+C:\Users\Sukanda\source\repos\Intermediate\AccessModifiers2\bin\Debug\netcoreapp2.2\AccessModifiers2.dll
+C:\Users\Sukanda\source\repos\Intermediate\AccessModifiers2\bin\Debug\netcoreapp2.2\AccessModifiers2.pdb
+C:\Users\Sukanda\source\repos\Intermediate\AccessModifiers2\obj\Debug\netcoreapp2.2\AccessModifiers2.csprojAssemblyReference.cache
+C:\Users\Sukanda\source\repos\Intermediate\AccessModifiers2\obj\Debug\netcoreapp2.2\AccessModifiers2.csproj.CoreCompileInputs.cache
+C:\Users\Sukanda\source\repos\Intermediate\AccessModifiers2\obj\Debug\netcoreapp2.2\AccessModifiers2.AssemblyInfoInputs.cache
+C:\Users\Sukanda\source\repos\Intermediate\AccessModifiers2\obj\Debug\netcoreapp2.2\AccessModifiers2.AssemblyInfo.cs
+C:\Users\Sukanda\source\repos\Intermediate\AccessModifiers2\obj\Debug\netcoreapp2.2\AccessModifiers2.dll
+C:\Users\Sukanda\source\repos\Intermediate\AccessModifiers2\obj\Debug\netcoreapp2.2\AccessModifiers2.pdb

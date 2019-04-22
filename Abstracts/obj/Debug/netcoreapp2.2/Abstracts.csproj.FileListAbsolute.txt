@@ -1,0 +1,10 @@
+C:\Users\Sukanda\source\repos\Intermediate\Abstracts\bin\Debug\netcoreapp2.2\Abstracts.deps.json
+C:\Users\Sukanda\source\repos\Intermediate\Abstracts\bin\Debug\netcoreapp2.2\Abstracts.runtimeconfig.json
+C:\Users\Sukanda\source\repos\Intermediate\Abstracts\bin\Debug\netcoreapp2.2\Abstracts.runtimeconfig.dev.json
+C:\Users\Sukanda\source\repos\Intermediate\Abstracts\bin\Debug\netcoreapp2.2\Abstracts.dll
+C:\Users\Sukanda\source\repos\Intermediate\Abstracts\bin\Debug\netcoreapp2.2\Abstracts.pdb
+C:\Users\Sukanda\source\repos\Intermediate\Abstracts\obj\Debug\netcoreapp2.2\Abstracts.csproj.CoreCompileInputs.cache
+C:\Users\Sukanda\source\repos\Intermediate\Abstracts\obj\Debug\netcoreapp2.2\Abstracts.AssemblyInfoInputs.cache
+C:\Users\Sukanda\source\repos\Intermediate\Abstracts\obj\Debug\netcoreapp2.2\Abstracts.AssemblyInfo.cs
+C:\Users\Sukanda\source\repos\Intermediate\Abstracts\obj\Debug\netcoreapp2.2\Abstracts.dll
+C:\Users\Sukanda\source\repos\Intermediate\Abstracts\obj\Debug\netcoreapp2.2\Abstracts.pdb
